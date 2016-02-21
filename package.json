@@ -29,7 +29,9 @@
     "ultimate"
   ],
   "dependencies": {
+    "arangojs": "^4.3.0",
     "body-parser": "^1.14.1",
+    "caminte": "^0.2.7",
     "colors": "^1.1.2",
     "compression": "^1.6.0",
     "connect-flash": "~0.1.1",
@@ -50,7 +52,9 @@
     "moment": "^2.10.6",
     "moment-timezone": "^0.4.1",
     "mongodb": "~2.0",
+    "mongodb-autoincrement": "^1.0.0",
     "mongoose": "^4.3.3",
+    "mongoose-auto-increment": "^5.0.1",
     "mongoose-findorcreate": "~0.1.2",
     "mongoose-timestamp": "~0.4.0",
     "mongoose-types": "~1.0.3",
@@ -66,6 +70,7 @@
     "passport-twitter": "~1.0.3",
     "pg": "^4.4.3",
     "redis": "~1.0.0",
+    "request": "^2.69.0",
     "require-dir": "~0.3.0",
     "serve-favicon": "^2.3.0",
     "serve-static": "^1.10.0",
